@@ -1,0 +1,20 @@
+# Entorno virtual y cachés
+env/
+__pycache__/
+
+# Archivos de presentación y modelos
+*.pptx
+*.pkl
+
+# Imágenes
+El Sótano Mágico.png
+qr_with_pint_logo.png
+randomGeneratedTrackBack.png
+randomGeneratedTrackFront.png
+
+# Videos
+video1320875116.mp4
+video1867656535.mp4
+
+# Código que no quieres trackear
+nnCarGame.py
